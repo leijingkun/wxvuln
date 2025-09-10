@@ -21022,5 +21022,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501559&idx=2&sn=db2f35ac55ca79b2d753cf8b990564e6": "【漏洞通告】微软9月多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502744&idx=2&sn=126d3a4bc73ffad37aac27e24e83a726": "美国战争部网络直播安全漏洞事件分析",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490464&idx=1&sn=7b737a3923d0fb3198091a3fb3ddbfec": "浅析 WebSocket 劫持",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247489817&idx=1&sn=3cd94bda9b7c6b5565bf8d6fb6c7edde": "一个注入 | 那他是PgSQL还是SqlServer呢？"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247489817&idx=1&sn=3cd94bda9b7c6b5565bf8d6fb6c7edde": "一个注入 | 那他是PgSQL还是SqlServer呢？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490749&idx=1&sn=693f371b08d8085e8c834c0a29df721b": "文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489120&idx=1&sn=43bff3d316dd39334d4ec8ffd058cc56": "用友UFIDA ERP-NC 5.0 多接口存在跨站脚本漏洞(CVE-2025-2709) 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484435&idx=1&sn=ce2416defe7b4fdeba59159ff0acf62d": "flask CVE-2023-27524xa0Apache Superset Auth Bypass/sink",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493726&idx=1&sn=3d3a2e1a23b20c9a5917381ba601763b": "新加坡科技工程有限公司 | 加密恶意流量特征挖掘研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484516&idx=1&sn=f23d62c4cfd6bd944946d668d9a999e3": "补档：初赛未解——奇怪的加密文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484426&idx=1&sn=0c90f96f1f463e321b2a9e844f0c3130": "CVE-2025-29927/Code reproduction/sink",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291105&idx=1&sn=0939321f6adf64c7a74be76301172c7a": "网络安全中的大语言模型：应用、漏洞和防御技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492716&idx=1&sn=c750f4c167120bf508ad4457baba51db": "AstrBot  get_file 任意文件读取漏洞(CVE-2025-48957)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490717&idx=1&sn=2024009ef9cb8324778c701ae691300e": "【高危AI漏洞预警】MCP Inspector跨站脚本漏洞CVE-2025-58444"
 }
