@@ -21875,5 +21875,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487819&idx=1&sn=88bca3cb5ba6a7fdd4a6c75b00f9c4dd": "漏洞预警 | Flowise 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490518&idx=1&sn=c3218b039b393f7c5e478ec5e07a7371": "DirtyPipe 脏管道漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490518&idx=2&sn=eafd4e87b7fe4833db2661dbade7fc4a": "2025年国家网络安全宣传周-数据安全篇",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MzI3NzE4NA==&mid=2257484461&idx=1&sn=b37c64bfe9061b10544ae6eb27557d81": "php反序列化深入分析（引用和变量替换机制）"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzI3NzE4NA==&mid=2257484461&idx=1&sn=b37c64bfe9061b10544ae6eb27557d81": "php反序列化深入分析（引用和变量替换机制）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489191&idx=1&sn=8ce0ede2a4e004db25fb0f0815736239": "预警：锐明Crocus系统RepairRecord.do接口存在任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484647&idx=1&sn=60c45098559dac1f8a28889da9b6fcd7": "跨越技术对抗：红队认知作战的战略跃迁",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691010&idx=1&sn=a5bff5994079a5fe188da9ef8491e8f1": "58.Recon 如何帮助我获得 50,000 美元的漏洞赏金 - 无需漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493390&idx=1&sn=20170bcdf37fa1a9363d089512a0c41a": "带数字签名某远控木马分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486107&idx=1&sn=eb0313303f44af90cb9c135f89a25de9": "【重大数据泄露】前有因瑞典政府将IT维护工作包中包导致数据泄露 | 现有因系统漏洞全国15%的居民数据",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487653&idx=1&sn=311991a06f2a2bcd95e6102cade611eb": "CVE-2019-10086/CVE-2025-48734(commons-beanutils)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291772&idx=1&sn=536bded3453b0d9c06d50fc58202037f": "PPT AIGC安全评估",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523207&idx=1&sn=218af913d36302853d0517ace8d1a513": "ISRC 2025中秋众测活动 | 首位额外奖励+最高4倍奖励",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485757&idx=1&sn=48cfe2ce5a23d2f67b8ace209ba05e8c": "代码审计-PHP专题&MVC开发&控制视图&URL路由&文件定位&SQL注入&文件安全&1day分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485333&idx=3&sn=3b3f98e6e0ded374f90b6b464ffb480d": "前端渗透技巧 3：“邪修操作“快速生成加密字典",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492445&idx=1&sn=c42c21e5ee6754810ba6c0c6cc1c9ec8": "Linux 渗透技巧：那些藏在系统深处的安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491935&idx=1&sn=1bb27b4a61fb249a733ba574b87d7dac": "npm 供应链攻击 – 检测到新的受感染包裹"
 }
