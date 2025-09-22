@@ -22301,5 +22301,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523965&idx=1&sn=80a7337d13392e80076711fe591f9651": "TOL-API 基于Token验证文件传输API安全工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494966&idx=1&sn=a8e3b16643b66a341c6868235a16420a": "JS泄露突破后台的攻防实录：Swagger与Nacos漏洞与前后端分离突破",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489231&idx=1&sn=c1ddfb7a9911658037f98ac6d4717479": "Apache Druid存在服务端请求伪造漏洞SSRFCVE-2025-27888 附POC",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486390&idx=1&sn=17e36ec3cad70cda964c2ba23aa62fbb": "JS加密逆向神器，助力SRC漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486390&idx=1&sn=17e36ec3cad70cda964c2ba23aa62fbb": "JS加密逆向神器，助力SRC漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617110&idx=1&sn=67cb49f5f60d7a3150fd9147fbd6df37": "对SharePoint CVE-2025-49706的详细审计过程复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726099&idx=1&sn=6e433a0f8845ed5457439cba1420174d": "聚焦网络安全宣传周——神州希望协助海口江东新区管理局开展网络安全意识培训",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNzM0NzA5MA==&mid=2247511370&idx=1&sn=7887ad8eb1b5378dba8f080181951a49": "尼日利亚我同胞车队遇袭事件：海外安全漏洞、应急机制与中非安保战略分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490780&idx=1&sn=37d54e95c3af3b03f031cba34e1bf12f": "2025年7月CISP考试成绩",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495520&idx=1&sn=347ed49086ce3460478a985f7caa85c3": "\\\"攻界智汇，技破万防\\\"|360SRC助力度安讲成都技术沙龙",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486250&idx=1&sn=35e4d173656e4d391969997303eedb4b": "WordPress漏洞挖掘实战：HackerOne赏金猎人进阶指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492789&idx=1&sn=da8b550d3f124639ed88c031ff5accf1": "汉王e脸通综合管理平台 fileDownload.do 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512169&idx=1&sn=2e00a3cef9064202b9ea6058c4c7e722": "首款集成GPT-4的恶意软件MalTerminal，可动态生成勒索软件与反向Shell",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252563&idx=1&sn=aad62817b655f8218a4a43d68e8090d4": "谷歌紧急修复今年第六个已被在野利用的Chrome零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485961&idx=1&sn=11dd6a1f092c637efd0a78dd28dd5169": "Zer0Sec团队问鼎360SRC 2025年8月榜首！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486277&idx=1&sn=7f7621fba36672e93c2082ddae30d37a": "ChatGPT “影子泄露” 漏洞：黑客可隐秘窃取电子邮件数据"
 }
