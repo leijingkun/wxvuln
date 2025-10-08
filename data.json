@@ -23613,5 +23613,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f": "Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzQ3MDE1NQ==&mid=2653940672&idx=1&sn=0ae0711c1b658a897b4fa6e5f95f35bc": "最后1天|国庆V24-26小迪安全培训",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c": "特斯拉车载通信单元漏洞使攻击者可获取Root权限",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=2&sn=252308252bf60fc614be7e2a6472a77e": "朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元|勒索攻击致啤酒巨头瘫痪！黑客组织\\\"麒麟\\\"公开叫嚣"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=2&sn=252308252bf60fc614be7e2a6472a77e": "朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元|勒索攻击致啤酒巨头瘫痪！黑客组织\\\"麒麟\\\"公开叫嚣",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0": "OpenSSH 通过 ProxyCommand 执行远程代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=2&sn=1ff541256031768dd897ec0f9113e626": "黑客通过注入恶意 PHP 代码来利用 WordPress 网站",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f": "CVE-2025-49844 (RediShell) POC概念验证脚本",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c": "漏洞预警 | “RediShell” Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=1&sn=80fcf97c75584ae92b81bb14916aeb59": "Anthropic推出AI安全工具Petri：通过自主Agent研究大模型行为",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=2&sn=ec86e41561a74c3e9a70168add72e18f": "Nagios严重漏洞CVE-2025-44823致管理员API密钥明文泄露，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=3&sn=5b44a3ffebace72725a0f0b80c411b1e": "全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=4&sn=d920ba9bfac75a4594a47eff48f227b5": "新型Yurei勒索软件现世：基于Go语言的高级反取证技术实现不可逆双重勒索",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486245&idx=1&sn=199e6be71bc9d6698575bdcdfc698bcb": "2025金秋政策解码：企业网络安全合规的三重防线",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560479&idx=2&sn=0ce813499afbe8a1862ae19427109aba": "汽车软件开发的质量和安全管理流程",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686": "常见各组件以及系统默认弱口令"
 }
