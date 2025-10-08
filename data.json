@@ -23605,5 +23605,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091": "若依(RuoYi)框架漏洞战争手册",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497782&idx=1&sn=f35163b9e19e294536b84f59d438bd7a": "由点到面-从事件型漏洞到通用型漏洞的发掘",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTUzNjE3OQ==&mid=2649560029&idx=1&sn=2bdabe00529c8c95911fb4ab21c2a7e2": "拒绝服务（DoS）攻防",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5": "Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5": "Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485335&idx=1&sn=d30c23d7bca7fd87041f341ca9855ef2": "歇斯底里Hy2防墙一键脚本，nginx伪装、加密混淆、BBR加速一键部署",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b": "CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485444&idx=1&sn=c2e8d06f399555581db009aa52f812ec": "渗透测试入门指南：为什么OSCP是小白必考黄金认证？",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f": "Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzQ3MDE1NQ==&mid=2653940672&idx=1&sn=0ae0711c1b658a897b4fa6e5f95f35bc": "最后1天|国庆V24-26小迪安全培训",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c": "特斯拉车载通信单元漏洞使攻击者可获取Root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=2&sn=252308252bf60fc614be7e2a6472a77e": "朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元|勒索攻击致啤酒巨头瘫痪！黑客组织\\\"麒麟\\\"公开叫嚣"
 }
