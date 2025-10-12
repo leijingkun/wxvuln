@@ -24058,5 +24058,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328636&idx=2&sn=33423f636dc69a812c5ea8ce46880fb6": "利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955": "Cookie越权不会只改id和jwt吧(老edu系统新鲜0day挖掘过程)",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492564&idx=1&sn=21131198dcdbee217d66916fc94aeaaa": "IPsec VPN 渗透测试完全指南",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NDMwMjEwMg==&mid=2451852368&idx=1&sn=e59a548982b5eafecc446a46b8612e48": "开源安全管理平台wazuh-与网络入侵检测系统集成增强威胁检测能力"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDMwMjEwMg==&mid=2451852368&idx=1&sn=e59a548982b5eafecc446a46b8612e48": "开源安全管理平台wazuh-与网络入侵检测系统集成增强威胁检测能力",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881": "微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc": "高德地图api key泄露安全漏洞处置措施"
 }
