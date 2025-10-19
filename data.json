@@ -24762,5 +24762,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125": "CVE-2025-59287 WSUS 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485640&idx=1&sn=0beb1b92bd6b71701d19129b4bff0f6a": "SRC挖掘之优惠券",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486201&idx=1&sn=296ae69c5df956b27ee28a31d72f745d": "CTF 密码学专项：从特征识别到 Flag 解码的实战指南",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485619&idx=1&sn=438d05c25d1fb3fdf45bc13f0c0f7592": "防范钓鱼攻击：当有人给你打电话或加你微信说“我是信息科的”，真的吗？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485619&idx=1&sn=438d05c25d1fb3fdf45bc13f0c0f7592": "防范钓鱼攻击：当有人给你打电话或加你微信说“我是信息科的”，真的吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492144&idx=1&sn=200dc4998e32bfa90fa09531181121a7": "隔离内网并非金钟罩：从针对国家授时中心的定向网攻谈起",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDMyNDM0NQ==&mid=2247485213&idx=1&sn=1cdc103751aa3eb6bd7ba6e98bb5f365": "GB/Tu202f22239‑2019《网络安全等级保护基本要求》中第二、三、四级要求项对比（安全运维管理）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf": "CVE-2025-49144 PoC 供安全研究人员测试和尝试",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac": "CVE-2025-59287 — WSUS 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097": "CVE-2025-8941：Linux-PAM 中的严重权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=3&sn=b689b2f4cc7ee9e34883a013b13971ca": "未履行数据安全保护义务，湖南一文旅公司被罚15万元",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=4&sn=206b8d9b09401ed944d2735775fb603e": "朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露"
 }
