@@ -24748,5 +24748,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147": "这个SQL注入有点东西",
     "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496399&idx=1&sn=be5b83dbdd510b6356d3d5560e2a7c47": " ] [技术分享｜LIAN——通用高精度代码安全分析技术",
     "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493783&idx=1&sn=da73b8cd1b34b9b1c1505c8955011fcd": " ] [恶意代码自动化分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c": " ] [CVE-2025-11001分析复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c": " ] [CVE-2025-11001分析复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d": "深度解析 7-Zip CVE-2025-11001 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc": "【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e": "Microsoft Defender 漏洞允许攻击者绕过身份验证并上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a": "银狐从中国大陆到马来西亚的恶意软件攻击链曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a": "7z 远程代码执行exp CVE-2025-11001",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213": "开源漏洞文库推荐，打造自己的漏洞文库，易维护部署"
 }
