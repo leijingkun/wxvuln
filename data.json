@@ -24879,5 +24879,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536866&idx=3&sn=6a8eb2e718a998bce18c9858ccfc8570": "啤酒巨头栽了！朝日啤酒遭 Qilin 勒索攻击，物流瘫痪 + 员工数据泄露",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536866&idx=4&sn=bfee1fd8e4adee8a00cca5a46683bebb": "紧急！7-Zip 曝两大高危漏洞，恐被植入恶意代码执行任意操作",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486206&idx=1&sn=5303e7ac8fb1877a5ecbb26c337040ec": "CTF 图片隐写进阶：密码破解 + 多图联动，搞定复杂题",
-    "https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483811&idx=1&sn=f129fbd11ea3dff2661785086b604bb6": "若依系统druid弱口令"
+    "https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483811&idx=1&sn=f129fbd11ea3dff2661785086b604bb6": "若依系统druid弱口令",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6": "【高危漏洞预警】Linux内核af_alg写入漏洞(CVE-2025-39964)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553396&idx=1&sn=7c72f3599397d774443f5d224871687c": "关于发布国资国企在线监管安全运营中心授权建设分中心目录的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6": "金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce": "CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799": "CVE-2025-59230正在被利用 Windows 远程访问连接管理器中的 0 day 漏洞发起持续攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524497&idx=1&sn=70e415036e34cc5959f2f455bc50b7e8": "Redis未授权访问详解——新手友好"
 }
