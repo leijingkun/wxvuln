@@ -24829,5 +24829,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485757&idx=1&sn=a65b80ea8fc2fcc1a0af345e5698ff50": "APP 代理与 VPN 检测实践分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247489427&idx=1&sn=aeb173c9eccbee055c9480764d3d721d": "大学生信息安全证书规划：NISP 到 CISP 全通关",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493030&idx=1&sn=e228ee7c07ffae2d64f956cf5f84e8ad": "EvertzSDVN3080ipx 10G 远程命令执行(CVE-2025-4009)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487652&idx=1&sn=c55f3c830a748a17f174582b77e15664": "2025-10-20 最新CVE漏洞情报和技术资讯头条"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487652&idx=1&sn=c55f3c830a748a17f174582b77e15664": "2025-10-20 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489072&idx=1&sn=6baa9158e02698c26c4f610ab1362ff7": "渗透测试代理池获取，IP被封了换个代理再测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485872&idx=1&sn=97c194f27f17aa1f4fbfdf0b5dc676c4": "CVE-2025-55315 漏洞复现：ASP.NET Kestrel HTTP 走私漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487148&idx=1&sn=4da0b41d9da371d0fcf9ea8f7b51ae0f": "2025年渗透测试工具Top 30全面解析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503573&idx=1&sn=b1804f5bbedd5df6f1c11e86283cc637": "雷神众测漏洞周报2025.10.13-2025.10.19",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247561059&idx=2&sn=40480d8d0458600247c104804bf358ba": "SOC和SecOC和E2E傻傻分不清楚？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627900&idx=3&sn=9cfe52c7b16cf99704e1984bf0db1235": "etas、stellantis: 通过行业合作优化汽车入侵检测技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507865&idx=1&sn=9a7e2c8b3d86ae77d74727b030de938d": "Android 渗透测试实战——TikTok  rce远程代码执行案例分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494978&idx=1&sn=4cef61f8eb8fb7544da69693e06e0e75": "【首发复现】Linux 内核 ALG 模块越界访问漏洞(CVE-2025-39964)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303361&idx=2&sn=0b70277ed138211a6141c51a0cbbb308": "行业验证：山石网科ASIC防火墙在浙江某区级教育局的卓越表现",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584945&idx=3&sn=f4cee4486163f443d00ace287dc638d5": "安全动态回顾|NVDB提示：防范Google Chrome远程代码执行高危漏洞风险 微软10月补丁星期二修复172个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484622&idx=1&sn=f534617ce3cd87e323f7c00ee14f918d": "【已复现】漏洞预警 | Cherry Studio客户端命令执行漏洞（CVE-2025-61929）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=1&sn=453f79a488bb6fabaae2e877f1533233": "一级贡献！斗象在我国网络安全漏洞治理工作中发挥积极作用",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=2&sn=c1f7e686a511429b62ad73e5179d529c": "做好漏洞报送“排头兵”，斗象再登CNVD年度多项表彰榜单",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484943&idx=1&sn=a081d66c400039ce22f9266e211fd0f3": "严重的RasMan本地提权漏洞"
 }
