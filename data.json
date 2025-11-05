@@ -26366,5 +26366,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488027&idx=1&sn=6b41cf21b5aad4aef1d1bcba7c4665a7": "威胁情报共享：企业安全防护的倍增器，还是数据泄露的新风险？",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496150&idx=1&sn=77262b87d312e8acf100b6760c4e08ac": "支持主流平台 | 最新OSS 存储桶漏洞扫描工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495554&idx=1&sn=f9504dea52ab2dcc3e287eae40d2c781": "OSS存储桶的漏洞扫描工具，目前支持阿里云、腾讯云、华为云、aws|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524775&idx=1&sn=ca3dd13186afc914cac7ba4edb16c4e3": "揭秘“权限提升”与“持久化后门”的真实攻防战"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524775&idx=1&sn=ca3dd13186afc914cac7ba4edb16c4e3": "揭秘“权限提升”与“持久化后门”的真实攻防战",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508045&idx=2&sn=9bdf0f918adae6a3241a3dd611c600a6": "为什么数据包模糊测试对漏洞悬赏仍然有价值",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487113&idx=1&sn=e84de83ed07a015da483250a216b90ec": "朝鲜APT Lazarus 翻车！偷加密货币时暴露真实 IP，9 个月狂盗 20 亿竟为造核弹",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=1&sn=daccb62419e5935162dde84b67cb71f2": "Android12定制版安全测试手机(Pixel3)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485029&idx=1&sn=2d2e05cc7e1470d20f97603844aeec8d": "路由器配置IPsec VPN详解",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485045&idx=1&sn=1ea4301e482ea719bd68c8800fa4673e": "从域前置到EDR绕过：聊聊红队那些隐匿手段",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490831&idx=1&sn=212a2af8729720ee1b2a891e73f5fe46": "软件供应链安全分级测评发布会暨第二期信息安全服务资质业务咨询会会议通知",
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484229&idx=1&sn=962bcb1432e4b0e81ff79f2b77d0fe27": "深度解析 WuzenRat：Telegram C2 + Ghost HVNC 的移动恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504353&idx=2&sn=cc338b982ac52c14b06aa07b9f46ae16": "网络安全专家参与勒索软件攻击面临最高50年刑期",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486465&idx=1&sn=5dd11be3c52d0d924029c05c2403c0b9": "CTF 实战演示：Web 模块 SQL 注入题解题全流程（从环境搭建到拿到 Flag）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzY5NjIyMg==&mid=2247483864&idx=1&sn=a1bb2eca781083111070d615700135fb": "戴着镣铐跳舞-记一次java反序列化极端利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248567&idx=1&sn=0ad1b1bf1c43d17cb6f7a367dae24a92": "俄罗斯黑客针对乌克兰政府组织发起攻击|全球 Android 用户面临 NFC 恶意软件威胁支付交易或被克隆",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=1&sn=f183d8110ba9ba6993dbd5de3b9db31a": "谷歌BigSleep在Safari中发现五个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=2&sn=34bbcea3076b47581bd6fb2d696875f6": "谷歌修复安卓高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=3&sn=7d03af00e95c0fb0065047bf92359f14": "芝麻开门新型后门：利用OpenAI API实现隐蔽命令控制",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500286&idx=1&sn=4cce2f7ac0c39a1ee98758a87e03cd64": "一不小心发现了一个 0day！！！"
 }
