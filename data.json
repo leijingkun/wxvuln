@@ -26381,5 +26381,21 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=1&sn=f183d8110ba9ba6993dbd5de3b9db31a": "谷歌BigSleep在Safari中发现五个漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=2&sn=34bbcea3076b47581bd6fb2d696875f6": "谷歌修复安卓高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=3&sn=7d03af00e95c0fb0065047bf92359f14": "芝麻开门新型后门：利用OpenAI API实现隐蔽命令控制",
-    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500286&idx=1&sn=4cce2f7ac0c39a1ee98758a87e03cd64": "一不小心发现了一个 0day！！！"
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500286&idx=1&sn=4cce2f7ac0c39a1ee98758a87e03cd64": "一不小心发现了一个 0day！！！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262221&idx=1&sn=41c46a9d52e942ea37b88da66ee3d27b": "利用 CVE-2025-21479 在三星手机上实现攻击的研究",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247506925&idx=1&sn=487bbded87bbe03b382d546d4bdf9714": "《网络安全法》新规下，AI 验证如何让安全防护“显形”？",
+    "https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485693&idx=1&sn=9190fabd98cb25dfd9e11309485461b2": "WordPress Latepoint 文件包含漏洞 (CVE-2025-6715)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517563&idx=1&sn=5b471beeb07738427f3d6c336a9aebc3": "Ai全自动化渗透测试工具 -- AiScan-N（11月1日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525612&idx=2&sn=4dc5f0e097444acddf9f854d77b74ff6": "双 11 抄底报名 CISSP！2026年班期随心选，开班计划抢先看→",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58": "Android 0-Click允许远程代码执行攻击漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec": "AMD Zen 5 处理器 RDSEED 漏洞：随机性失效引发完整性破坏",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81": "WatchVuln-web 一个用于监控和展示漏洞信息的全栈 Web 应用",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789366&idx=1&sn=f40c330770275d68e29245d678ceb344": "瑞典市政系统核心供应商被攻击，150万民众隐私数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2": "信息安全漏洞周报（2025年第44期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585161&idx=1&sn=9a5ca3cdc0db8437b05fab7c210014dc": "Open VSX代码仓库泄露访问令牌引发供应链攻击 恶意扩展程序被植入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488366&idx=1&sn=3f18435301ae6e51f22fab31122ed767": "Knownsec数据泄露？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1": "Java反序列化漏洞黑盒挖掘思路-下篇",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153": "若依（RuoYi）框架漏洞总结",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507192&idx=1&sn=0eac9d9e995d9d42ee7483c74a125f46": "亚信安全 - 应急响应专家"
 }
