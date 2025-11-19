@@ -27650,5 +27650,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTczNzIxNQ==&mid=2247487307&idx=1&sn=f0f270d94165e2f69f7929966a8cfc40": "网安SRC漏洞审核常会碰到哪些漏洞？",
     "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483998&idx=1&sn=481e7e60c3f1829a3f2cdbb56b5f0270": "【漏洞复现及预警】 | 远程命令执行漏洞(CVE-2025-12916)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484284&idx=1&sn=c4d5fd2a48118883a1a805018fca3e0a": "发几个POC",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507967&idx=1&sn=a9c41190456f92e998403e2424418e7c": "已在野 | 深信服运维安全管理系统 portal_login 远程命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507967&idx=1&sn=a9c41190456f92e998403e2424418e7c": "已在野 | 深信服运维安全管理系统 portal_login 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTQzNjIyNg==&mid=2247494235&idx=1&sn=8b2ceae2467b03ea7a66736733628fa4": "2025第二届“数证杯”电子数据取证分析大赛初赛服务器取证参考WP",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486391&idx=1&sn=8105930f06bd74adab87c6a3de1bd41e": "威胁情报：某恶意IP攻击流量分析（一）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2": "工具推荐 | 一款专为检测和分析 SQL 注入漏洞而设计的插件",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119588&idx=2&sn=a0f2c69f0e5a59d5212cb2fb53720517": "AI推理引擎中多个高危漏洞暴露，影响Meta、Nvidia和Microsoft框架",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494051&idx=1&sn=ae79fa39d56050d0949fbfe9de74e513": "一种新的、可以自我传播的供应链攻击恶意软件 GlassWorm 瞄准了使用 OpenVSX 和VS Code 的开发人员",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516746&idx=1&sn=52e68b555c40ed4e73532a4e8e913f6e": "TCP协议隐形攻击：Payload注入背后的攻防暗战与实战防护指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495806&idx=1&sn=546c5c76d5eebfe34b38dca51a844676": "一键安全评估：基于Golang的高性能AI渗透测试系统(2025-11-17更新)|工具分享"
 }
