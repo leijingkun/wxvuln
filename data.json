@@ -29413,5 +29413,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495872&idx=1&sn=fdc625bf5e37979713634384ebe67b8c": "Next.js & React 满分RCE漏洞 (CVSS 10.0) 现已公开（附PoC与自查工具）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTUyNjkwNA==&mid=2247484444&idx=1&sn=d390a4af5e98dd9caf18f50fda61eef5": "想在网安大赛脱颖而出？渗透测试特训营是致胜密钥",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTc0ODM3Nw==&mid=2247490438&idx=1&sn=c4be61d66f618f7ecf0759f61989719c": "第二批数据流通安全治理典型案例发布",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247500299&idx=1&sn=a6c93b3bc489eafdde8dfc959778dd5d": "CVE-2025-55182 的解释及完整 RCE PoC"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247500299&idx=1&sn=a6c93b3bc489eafdde8dfc959778dd5d": "CVE-2025-55182 的解释及完整 RCE PoC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5MjIwNg==&mid=2247484076&idx=1&sn=242246f2cb9e905596517aed73367c7f": "React CVE-2025-55182 漏洞介绍与 AWD 靶场复现环境",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07": "CVE-2025-55182 的解释和完整的 RCE PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e": "【内网渗透】记首次内网靶场渗透-红日靶场1",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7": "【已复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494625&idx=1&sn=04820402d776808b34e8ac8b7d2bb91e": "伪装成投诉举报证据红队样本分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350": "Next.js RCE(CVE-2025-55182) POC和EXP(凑个热闹)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef": "新鲜出炉 | CVE-2025-66478打了一个小鬼子的站",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648": "【已复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTIxNzk4Ng==&mid=2247487427&idx=1&sn=056245a00724f9374f703c5f4c2682a5": "金融证券App攻防演进：从数据加密到运行时自保护的深度技术剖析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzY5NjM5Mg==&mid=2247485237&idx=1&sn=9b66fa6c68ce3fbaa73a11dc7d2ec375": "Kyber：后量子时代的加密守门人",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485194&idx=1&sn=59fca13a3b60537c046f9c6bb08c575e": "React Server Components 远程RCE利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c": "React Server Components 远程代码执行漏洞(CVE-2025-55182)",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525901&idx=1&sn=3e390077c15c453a0e61bd77ca3b1bf9": "学员分享 | 我的 OSED 漏洞利用实战备考历程",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629235&idx=1&sn=24fa94fcec236e1d1775444e9103153b": "车联网漏洞挖掘方法及典型案例剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6": "CVE-2025-55182：React/Next.js RCE漏洞验证与分析"
 }
