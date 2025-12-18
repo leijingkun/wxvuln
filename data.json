@@ -30847,5 +30847,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248697&idx=1&sn=2f0dd64c998dc95583d2f8011340c919": "Windows GUI界面的渗透测试工具箱，支持TscanPlus扫描结果和天狐工具箱工具导入快速部署",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962": "0day漏洞复现 | 华天动力OA 8000前台getAwokeListData存在SQL注入漏洞【附poc】",
     "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b": "蜂信物联(FastBee)物联网平台任意文件读取漏洞 附POC",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485823&idx=1&sn=3b50c0c9307709346a60581029a472e9": "红队资产指纹识别神器——Muki 2.02"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485823&idx=1&sn=3b50c0c9307709346a60581029a472e9": "红队资产指纹识别神器——Muki 2.02",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484870&idx=1&sn=cae1ce39c80bfc7c1a86281065c45d7e": "APK，一次“重打包”，一次失控：APK 后门植入原理与防范实战",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247510076&idx=1&sn=58b5afadcd17dd381893822ae6b3c485": "“秒响应”安全运营摘星计划|中数通信息有限公司AOne办公安全建设与运营",
+    "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526969&idx=1&sn=d0e7e68a3a82d34cced2f4ee72178016": "政策解读丨重磅！《能源行业数据安全管理办法（试行）》发布，能源行业机构应如何应对？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502294&idx=1&sn=2f63aadca401673dc59bca08f976d015": "[AI安全论文] (45)C&S24 AISL: 基于攻击意图驱动与序列学习方法的APT攻击检测",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODY5ODE4MA==&mid=2247483782&idx=1&sn=e5780f86f97d15297a7205f87bac38f9": "三证齐发，全维守护！极安科技再获CCRC应急响应及安全运维双项资质",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492971&idx=1&sn=301efedd4c05ca6a5a75b997c1940007": "支付宝苹果免密授权漏洞到底是真的吗？我想说几句",
+    "https://mp.weixin.qq.com/s?__biz=MzU0Mzc4MzgxMQ==&mid=2247484778&idx=1&sn=5050c09ad00b09f7e1517bc3fbb380b4": "警惕Gafgyt新型变种Resentual僵尸网络快速传播",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58": "针对 PHP-Proxy 的已知明文攻击：从破碎的加密到 FastCGI 远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1NTA5MA==&mid=2247484736&idx=1&sn=5dcd1f8e2c61fdbdb75e0e17f5d3f6e9": "【辟谣】支付宝支付漏洞？苹果免密漏洞？实则误解与甩锅",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247493392&idx=1&sn=be2f059b3ab2d33f37d0bcc8ea62a42e": "安全快报 | 中东地区多国政府和外交机构遭Ashen Lepus网络间谍组织恶意软件入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304709&idx=2&sn=bc422904ac3444837f629c0201df5382": "山石网科携新一代安全防火墙亮相2025人工智能创新技术大会",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586009&idx=2&sn=7aa8e20de252b2cde6405cd1666433b6": "VS Code应用市场恶意扩展：伪藏身PNG文件植入木马程序",
+    "https://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652491378&idx=1&sn=64f58454238186a36d51299ccf79637b": "快来，工作地长沙，招移动安全",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MjAyMTg1Ng==&mid=2650471910&idx=1&sn=0b962feb1dca69d7bc07e8d9a9a26129": "基于PIR增强的可搜索加密方案研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247490542&idx=1&sn=fb8ba211418008b1c47b253ece3b44fb": "从奥运赛场到FBI十大通缉犯：BlockSec详解前奥运滑雪选手的加密犯罪轨迹",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489554&idx=1&sn=42351b07940aad8201fd78d346ce8e73": "紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！"
 }
