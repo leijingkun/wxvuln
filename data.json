@@ -31433,5 +31433,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504372&idx=1&sn=ec0ca2fb20e9061517a7d4a32162d553": "【已复现】FreeBSD rtsold 远程命令注入漏洞(CVE-2025-14558)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504372&idx=2&sn=59a1b1bff23e5eb7f44f8ac5c6c09d3d": "【已复现】n8n 远程代码执行漏洞(CVE-2025-68613)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576174&idx=1&sn=2280dc7bde595a63780e72b770c18d06": "总结9大常见Web漏洞，网安小白不能错过！",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247491057&idx=1&sn=d9e783db8e8817b419b80db2e2d47a10": "数据库注入提权总结（下）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247491057&idx=1&sn=d9e783db8e8817b419b80db2e2d47a10": "数据库注入提权总结（下）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489749&idx=1&sn=a38c9a26fd76d97916149bed05f3d4a2": "短剧影视小程序平台juhecurl接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267891&idx=1&sn=0c719e90f8dc6cb75e0e03d2756886ca": "技术深析快手安全事件：为何大量违规直播“关不掉”？",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247484013&idx=1&sn=514d45521e2166d6f28f10eee4417bef": "【已复现】| 帆软export/excel sql注入",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTg4MTIxMw==&mid=2247504921&idx=1&sn=a495b662e6dd2a9bae0928cdeaf50ee1": "重磅 | CertiK《2025 Skynet Hack3D Web3安全报告》（附报告全文链接）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485606&idx=1&sn=dcd065c2f4d672d87bfbc460815ce20c": "XXL-JOB的SSRF漏洞详细分析记录",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485389&idx=1&sn=6cad8e44b8130dd636386daff5fbdbaa": "AI-Vanguard：智能自动化安全测试平台",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjM4NA==&mid=2247484221&idx=1&sn=85839a787573b3d89fb3b192e9b3344e": "一文搞懂前端加密和js逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247489852&idx=1&sn=7f7e719c5c331850c97537ee95ae8903": "某视频平台网络安全事件记"
 }
