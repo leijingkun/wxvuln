@@ -31691,5 +31691,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576241&idx=1&sn=0cbcdf83f3780832c7299704f37b0bba": "微信内置浏览器渗透测试中绕过限制的多种调试方案",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486531&idx=1&sn=d23383b58eacfe71072eeb1ceb7afafb": "TP-Link Tapo C200智能摄像头：硬编码密钥、缓冲区溢出漏洞及人工智能辅助逆向工程时代的隐私安全问题",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495760&idx=1&sn=4a8f14d9ee63a49e6664e9824241dfa7": "【已复现】MongoDB Zlib 压缩协议曝出远程未授权堆内存泄露漏洞(CVE-2025-14847)",
-    "https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247488992&idx=1&sn=424248d3c296fcee73b882cbca15fef3": "TryHackMe-SOC-Section 2：SOC团队内部"
+    "https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247488992&idx=1&sn=424248d3c296fcee73b882cbca15fef3": "TryHackMe-SOC-Section 2：SOC团队内部",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649": "WVP-GB28181摄像头管理端api/user/all存在敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d": "【高危漏洞预警】Windows PowerShell 命令注入漏洞CVE-2025-54100",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d": "【高危漏洞预警】LangChain序列化注入漏洞CVE-2025-68664",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522": "宇视科技视频管理系统VM.php接口存在远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494981&idx=1&sn=97a24ca8b445a103647546799bea96f4": "新型CaddyWiper数据擦除恶意软件攻击乌克兰网络",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522177&idx=1&sn=bc8834b1c5080008e1ea644acd2ee195": "【AI安全】提示词Prompt注入攻击实录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490144&idx=1&sn=7046c1d47a090feeecd7682ea92775a8": "多角度看OWASP API 安全十大风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTUyODE5Mg==&mid=2247486217&idx=1&sn=da675d2e66d9994e78285cb4a1dc30a3": "湾Job | 内推直达！蚂蚁国际数据安全专家热招！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484672&idx=1&sn=42b9f5c9cba2b1c4618844a9caa46cae": "【圣诞节快乐】EasyTools渗透测试工具箱V2.0.3更新(新增白加黑挖掘与自动编译、文件上传自动bypass测试等功能)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484715&idx=1&sn=ac7808aa3051f14e53fffc0fd85a5e8c": "CVE-2025-55182 完整调试分析复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3": "SRC混子的漏洞挖掘之道"
 }
