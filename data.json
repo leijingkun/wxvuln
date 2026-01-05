@@ -32675,5 +32675,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDY0NjA5MQ==&mid=2247484696&idx=1&sn=7ef43b2c18e801610b530cad4f5ba444": "Windows安全攻防-DDL全局钩子注入",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120509&idx=2&sn=b3a613382ba0c752369075f908d07221": "国外：一周网络安全态势回顾之第132期，美安全从业人员承认勒索软件攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497713&idx=1&sn=ca95ab4f3867f6bc22ab743164bb5382": "工具推荐 | 快速探测可能存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494518&idx=1&sn=2742fb7816af8324d527caeef6f47da7": "日产称，Red Hat 公司数据泄露事件导致数千名客户信息泄露"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494518&idx=1&sn=2742fb7816af8324d527caeef6f47da7": "日产称，Red Hat 公司数据泄露事件导致数千名客户信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489829&idx=1&sn=023fa5cb3fbd045324bfcbeea336ab53": "突破后缀限制实现任意文件上传",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487672&idx=1&sn=92c295733ebd205f0619759b8ede3a93": "乌克兰议会遭俄罗斯APT组织UAC-0184精密网络钓鱼，数万军人档案面临泄露风险！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485301&idx=1&sn=2824a6e0a3ccb57d84423d7e82d3065b": "高颜值、跨平台的网络流量监控与威胁检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486392&idx=1&sn=0d903b2cfb70757650324b9c370030e6": "亿赛通综合漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486392&idx=2&sn=a974b256e9c53f25514d877932b0a313": "OSS存储桶遍历漏洞利用脚本",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504424&idx=1&sn=d3c8145bfaaa63da85cbf396ba122a0c": "【已复现】n8n Pyodide 命令执行漏洞(CVE-2025-68668)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485913&idx=1&sn=f57973006c3d883fb120feb38a260f68": "Windows AlwaysInstallElevated配置错误导致的提权",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247487329&idx=1&sn=fd80dc4168c16410d469b74013bd4df0": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650819888&idx=1&sn=77445a5413a0c6994a544a47c67c7499": "年度回顾｜美创数据安全的2025",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNDI0MjkzOA==&mid=2247486548&idx=1&sn=f7b3af06a76487ee5a5e768a8c6e5e7e": "2026数据安全新机遇，CCRC双证赋能你的职业未来！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651038208&idx=1&sn=3d87f031f93dc64be8c16a11174f9a85": "2025年度物联网行业十大安全事件深度盘点",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247487064&idx=1&sn=7bc14562aecdc1efe3cd648c552cf377": "【509】【有靶场】【已付现】n8n Python代码节点沙箱绕过 CVE-2025-68668"
 }
