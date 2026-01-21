@@ -34747,5 +34747,14 @@
     "https://mp.weixin.qq.com/s/Do2tOGIiFqA3vpNX6jwG6A": "Windows SMB客户端漏洞可导致攻击者掌控Active Directory环境",
     "https://mp.weixin.qq.com/s/R8fgX979oKZ1RadPy66N0g": "“银狐”木马深度技术分析与防护报告",
     "https://mp.weixin.qq.com/s/xBflVC2X4D9e_3-PGnCQSA": "安全服务不打烊！聚铭网络2026年春节放假通知",
-    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告"
+    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告",
+    "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）",
+    "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g": "常见OAuth 漏洞：未验证token",
+    "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
+    "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g": "攻防技巧|快速高效挖掘.net系统漏洞",
+    "https://mp.weixin.qq.com/s/KbEULVnCWgTosRHcSAbUpA": "src专项挖掘知识库",
+    "https://mp.weixin.qq.com/s/w1mQUKt1gMwWPhOyrNTFBg": "域控信息导出利器——ldapdomaindump",
+    "https://mp.weixin.qq.com/s/eIg0zQ_0dvDQdb1ytF7s_Q": "Windows安全攻防-手写一个PE壳",
+    "https://mp.weixin.qq.com/s/SuSwlSacP-Wd7Nab14jvaQ": "银狐木马分析必懂的专业黑话",
+    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare  WAF 零日漏洞：可访问全球任何主机"
 }
