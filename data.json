@@ -35078,5 +35078,20 @@
     "https://mp.weixin.qq.com/s/JEssHHIZrjWFxVUit2a44Q": "攻破 LLM 防线：OWASP Top 1 提示词注入全景攻防指南",
     "https://mp.weixin.qq.com/s/fyPeyDTAixloo4j4M_lkbA": "CEO 与 CISO 对 AI 安全价值和风险的分歧正在扩大",
     "https://mp.weixin.qq.com/s/KmGQ3g36dQQNLWXh1gsmnA": "详解银狐远控源码中那些设计缺陷",
-    "https://mp.weixin.qq.com/s/ZLP14YGdr_f-viWeIYfdvQ": "“量子+商密”双轮驱动 北信源构建全链路安全防护体系"
+    "https://mp.weixin.qq.com/s/ZLP14YGdr_f-viWeIYfdvQ": "“量子+商密”双轮驱动 北信源构建全链路安全防护体系",
+    "https://mp.weixin.qq.com/s/zftHpC3tmCyYEH-e3eJL8Q": "第153篇：Struts2-069 XXE 实体注入漏洞分析+复现",
+    "https://mp.weixin.qq.com/s/mgiGbBA6I074gRvkNhKniw": "漏洞复现 | Oracle E-Business Suite远程代码执行漏洞（CVE-2025-61882）",
+    "https://mp.weixin.qq.com/s/-Ue0PmNCyxY6aC7885C2fg": "网络犯罪市场如何洗白数据泄露收益及安全团队的盲区",
+    "https://mp.weixin.qq.com/s/trgUEzPNgsj8yw463DqL5Q": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
+    "https://mp.weixin.qq.com/s/qkWr6CtnlTRpO2kWsrBLSg": "【附POC及复现环境】一个-f参数即可获得root权限？GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/xwsVLHHEStbpMPb3cwBZJQ": "Oracle WebLogic惊现满分漏洞：CVE-2026-21962深度解读",
+    "https://mp.weixin.qq.com/s/mqr3pXPgyrmpdmeEffbkZA": "CTF密码学专题：RC4流密码算法深度解析与实战",
+    "https://mp.weixin.qq.com/s/eusfSzhzFzopAsus3ovMlA": "个人接单 | web渗透测试",
+    "https://mp.weixin.qq.com/s/FU4-PHu7HWPYg4A8zmO60g": "【云原生安全】容器环境DIND场景下的漏洞发现与利用",
+    "https://mp.weixin.qq.com/s/hutNluGQe_itqCBt9SAquw": "商用密码应用安全性评估备案信息表",
+    "https://mp.weixin.qq.com/s/jsnUBdJr614AjAz2-FtKAg": "湖南网信办对2家公司未履行数据安全保护义务作出行政处罚",
+    "https://mp.weixin.qq.com/s/y8DtKYO-ZclbmEAXWBvkhg": "红队攻防：快速拿下域控的思路打法",
+    "https://mp.weixin.qq.com/s/6CAy2RS8H9K8b5bnhXxSWg": "XML外部实体注入漏洞（XXE）",
+    "https://mp.weixin.qq.com/s/RC1MFjCH8ltP2xMFvoPbAA": "西班牙能源巨头Endesa披露数据泄露事件，导致大量客户信息泄露",
+    "https://mp.weixin.qq.com/s/wV547T3xTfYvtTyjjLrvXg": "CVE-2026-22200：osTicket工单直通系统Shell的漏洞剖析"
 }
