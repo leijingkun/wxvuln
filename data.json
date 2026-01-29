@@ -35764,5 +35764,12 @@
     "https://mp.weixin.qq.com/s/0i_m27_Mt6VA9Ac7AM2qvA": "[分享]连用四个驱动！银狐开始硬刚EDR和杀软",
     "https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow": "WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067）",
     "https://mp.weixin.qq.com/s/i2o8NB7ZRGkQqamVkJ1oig": "2026年CISO需掌握的核心技能",
-    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行"
+    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行",
+    "https://mp.weixin.qq.com/s/WbRrARZWr_wkygZjyTS3TA": "利用 NTLM 反射掌控 Active Directory（CVE-2025-33073）",
+    "https://mp.weixin.qq.com/s/SMP8gS58Tq3tPqT5VcDdaw": "K8S三个网络平面之间，如何做好网络访问控制",
+    "https://mp.weixin.qq.com/s/RIemvieVgKLhMl2JU1oS7A": "NeuroSploit 架构分析：AI驱动的渗透测试框架",
+    "https://mp.weixin.qq.com/s/RpxKwJ8Klr4E2tGBQon73g": "AI在渗透测试中的应用案例三则",
+    "https://mp.weixin.qq.com/s/QPCJeKRVghy2fnNgq_Q4Yg": "【高危漏洞预警】OpenSSL CMS AuthEnvelopedData栈缓冲区溢出漏洞(CVE-2025-15467)",
+    "https://mp.weixin.qq.com/s/uXCFfguP6LvuoF3nhre_cA": "G.O.S.S.I.P 阅读推荐 2026-01-29 超越答案正确性：揪出大模型推理回复中的“隐性逻辑漏洞”",
+    "https://mp.weixin.qq.com/s/JMG7EKojGxuERfZce_Perg": "网安圈的PUA话术，比0day漏洞还伤人"
 }
