@@ -51441,3 +51441,33 @@
 2026-04-05 05:46:14,531 - INFO - 已更新data.json，添加了 6 个URL
 2026-04-05 05:46:14,531 - INFO - 已创建每日报告: md/2026-04-05.md
 2026-04-05 05:46:14,531 - INFO - === 执行完成 ===
+2026-04-05 08:51:51,692 - INFO - === 开始执行微信文章归档工具 ===
+2026-04-05 08:51:51,692 - INFO - 数据文件: data.json
+2026-04-05 08:51:51,692 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-04-05 08:51:51,693 - INFO - 文档目录: doc
+2026-04-05 08:51:51,754 - INFO - 已加载 41841 条历史记录
+2026-04-05 08:51:51,754 - INFO - === 开始今日拉取 ===
+2026-04-05 08:51:51,754 - INFO - 开始获取Doonsec RSS
+2026-04-05 08:51:51,754 - INFO - 目标日期: 2026-04-05
+2026-04-05 09:12:10,551 - ERROR - Doonsec RSS解析失败: HTTPSConnectionPool(host='wechat.doonsec.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='wechat.doonsec.com', port=443) at 0x7fee9867b3d0>, 'Connection to wechat.doonsec.com timed out. (connect timeout=None)'))
+2026-04-05 09:12:10,551 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-04-05.md
+2026-04-05 09:12:10,655 - INFO - ChainReactors md文件下载状态码: 404
+2026-04-05 09:12:10,655 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-04-05.md 状态码: 404
+2026-04-05 09:12:10,655 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-04-05.md
+2026-04-05 09:12:10,743 - INFO - BruceFeIix md文件下载状态码: 200
+2026-04-05 09:12:10,744 - INFO - BruceFeIix获取到 165 个URL
+2026-04-05 09:12:10,744 - INFO - === 开始处理 2026-04-05 的数据 ===
+2026-04-05 09:12:10,745 - INFO - Doonsec原始数据: 0 个
+2026-04-05 09:12:10,745 - INFO - ChainReactors原始数据: 0 个
+2026-04-05 09:12:10,745 - INFO - BruceFeIix原始数据: 165 个
+2026-04-05 09:12:10,745 - INFO - 开始处理Doonsec数据...
+2026-04-05 09:12:10,745 - INFO - 开始处理ChainReactors数据...
+2026-04-05 09:12:10,745 - INFO - 开始处理BruceFeIix数据...
+2026-04-05 09:12:10,745 - INFO - 去重后共 125 个URL待处理，跳过 40 个重复URL
+2026-04-05 09:12:10,745 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 125 个
+2026-04-05 09:12:10,745 - INFO - === 开始关键词过滤 ===
+2026-04-05 09:12:10,750 - INFO - 关键词过滤: 匹配 0 个，跳过 125 个
+2026-04-05 09:12:10,750 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-04-05 09:12:10,750 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-04-05 09:12:10,811 - INFO - 已更新data.json，添加了 0 个URL
+2026-04-05 09:12:10,811 - INFO - === 执行完成 ===
