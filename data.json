@@ -45141,5 +45141,17 @@
     "https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA": "【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告",
     "https://mp.weixin.qq.com/s/izVy1U113E-dxqZ_edKunA": "能信安：漏洞通告",
     "https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g": "实战逻辑漏洞（短信横向）利用",
-    "https://mp.weixin.qq.com/s/zpw8YLQ1twXB-qaYzxt-Mg": "2026年攻防演练即将开启：以攻击面管理为核心，构筑主动防御新防线"
+    "https://mp.weixin.qq.com/s/zpw8YLQ1twXB-qaYzxt-Mg": "2026年攻防演练即将开启：以攻击面管理为核心，构筑主动防御新防线",
+    "https://mp.weixin.qq.com/s/v3ES8XbXVu4GKjwKXBlHNA": "终端隐形链：OSC 8超链接注入攻击",
+    "https://mp.weixin.qq.com/s/-mCRYppiZyx_VsqJj5gdbQ": "筑牢智能时代的数字长城：Token经济呼唤全域全栈安全防护体系",
+    "https://mp.weixin.qq.com/s/ysw6Ah_QeeF2In6j3EesfQ": "真实企业攻防演练现场,到底有多恐怖？",
+    "https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww": "威胁情报｜node-ipc 遭供应链入侵投毒攻击分析",
+    "https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ": "威胁情报｜Mistral AI 官方 SDK 供应链投毒分析",
+    "https://mp.weixin.qq.com/s/n9TqWGWGQCfe0MNsIc7u2w": "微软警告：HPE Operations Agent 可能在无恶意软件攻击中被滥用",
+    "https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw": "一个月内第三起！Linux内核再曝Fragnesia高危漏洞",
+    "https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ": "Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞",
+    "https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw": "Windows DNS客户端漏洞可导致远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）",
+    "https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q": "【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw": "【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)"
 }
