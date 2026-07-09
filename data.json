@@ -47535,5 +47535,7 @@
     "https://mp.weixin.qq.com/s/Vf6wY5_kmdPXWUZVptUASg": "npm 和 PyPI 恶意软件活动通过虚假支付 SDK 窃取 CI/CD 机密信息",
     "https://mp.weixin.qq.com/s/kU75b2VwHaGfvSmizljhvw": "AI 编程助手中发现了一个名为“GhostApproval”的新漏洞",
     "https://mp.weixin.qq.com/s/H7El9UmBDr_QPgalT95Ukg": "【安全圈】Google Dialogflow CX 漏洞可让攻击者劫持 AI 对话",
-    "https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg": "【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险"
+    "https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg": "【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险",
+    "https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ": "【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告",
+    "https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg": "数据泄露情报2026.7.9 - 800万gravatar数据被爬取，FBI档案新旧掺杂"
 }
