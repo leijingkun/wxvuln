@@ -52381,5 +52381,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527447&idx=2&sn=b613244256bbe9a43eb5c13133744331": " ] [Progress 修复12个MOVEit Transfer 高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623018&idx=2&sn=d1c99fe7c8ab54bcea91687e314a9e2e": " ] [银狐远控木马深度分析：伪装AI破甲工具",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142998&idx=1&sn=bb8b7fc00fe5085c8fbb932bd9977dae": " ] [515种绕过方法全部失败，9类攻击却成功了：LLM安全防护到底漏掉了什么？",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142998&idx=2&sn=3a113a65bc70bcc44a3fb7a0137a05e9": " ] [CyberSN 调研：美国网络安全岗位招聘量同比下滑 26.4%，跌至四年低点；CNVD发布上周关注度较高的产品安全漏洞| 牛览"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142998&idx=2&sn=3a113a65bc70bcc44a3fb7a0137a05e9": " ] [CyberSN 调研：美国网络安全岗位招聘量同比下滑 26.4%，跌至四年低点；CNVD发布上周关注度较高的产品安全漏洞| 牛览",
+    "https://mp.weixin.qq.com/s/f-HLcG0pnahc5nxuWrlCHg": "Cellebrite手握iPhone无线电0day漏洞？8米内隔空解锁设备",
+    "https://mp.weixin.qq.com/s/kn1rfEBs-JbX3POsQ0oTCg": "CVE-2026-96652 / -96654 / -96655 / -96656",
+    "https://mp.weixin.qq.com/s/mXuK5oO8gR0euFq2fH2ZNg": "PHP2Shell 漏洞危害分析与修复方案",
+    "https://mp.weixin.qq.com/s/UQ8aliItmcB5q8UG3XOqYQ": "【PHP RCE补丁发布】官方：没有完全的缓解方法，更新是唯一安全的选择！请速速更新！",
+    "https://mp.weixin.qq.com/s/bVN5vKYjVsgdOXA8QMhjrw": "【修复指南】PHP双RCE补丁已发布：怎么升级，怎样确认真正修好",
+    "https://mp.weixin.qq.com/s/6vmnCuWEEgGpexAnTrZ8SQ": "【核弹漏洞】php2shell（CVE-2026-109618 / CVE-2026-109619）是 PHP Core 中两个无需认证即可远程触发的代码执行漏洞",
+    "https://mp.weixin.qq.com/s/-C3WiyQ16f4N54Gqg1v4gQ": "三家都在给白帽开权限：Anthropic、OpenAI、xAI 红队计划对比",
+    "https://mp.weixin.qq.com/s/IFT5yD-UYo_EQLkIog7HVw": "资产发现/站点测绘/智能渗透/漏洞归档/一个应用全部搞定",
+    "https://mp.weixin.qq.com/s/ztQqrBjTI07KMdsvdclb8w": "软考中级【信息安全工程师】全套速记口诀+记忆技巧  考前突击必看",
+    "https://mp.weixin.qq.com/s/k0tfyFipU-elRI3C8LSzxw": "【已复现】漏洞预警｜php2shell：PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+    "https://mp.weixin.qq.com/s/tGc9FhasC9blhCgYxSB41w": "核弹级 PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）"
 }
