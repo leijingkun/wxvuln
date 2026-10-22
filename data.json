@@ -52600,5 +52600,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079425&idx=2&sn=07544793f8f05b3d6d3e0c485304ea32": " ] [【安全圈】突发双高危RCE！PHP官方紧急发布9.2分安全通告",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079425&idx=3&sn=c68af0c74d28f62d80dfcb503c296a76": " ] [【安全圈】0dayPoC公布！FortiSIEM遭空字节截断实现免认证RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544260&idx=1&sn=32ef6f73ca7b7a21dacc672370c10462": " ] [漏洞管理不能只看评分高低，更要看对业务的实际影响",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493684&idx=1&sn=d812f566ec366996d3e8e4788f5f1832": " ] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-109618&CVE-2026-109619）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493684&idx=1&sn=d812f566ec366996d3e8e4788f5f1832": " ] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-109618&CVE-2026-109619）",
+    "https://mp.weixin.qq.com/s/R9W1Y3rZ7BYFaXoX7blODw": "27届网安校招进度同步篇：一名互联网大厂实习，SRC年榜top的双非本科",
+    "https://mp.weixin.qq.com/s/BpI-ShQijA4frZV7b0CsiQ": "讲解一下这次PHP核弹级别漏洞的原理",
+    "https://mp.weixin.qq.com/s/62Nyzt0p7ECwAYUxyp3Vxg": "穷举后台与phpMyAdmin getshell：从弱口令爆破到绕过杀软拿Shell的完整实战",
+    "https://mp.weixin.qq.com/s/DvCs1xdsaUnKeDG6OuPLeQ": "对暗网某10TB数据泄露事件的简单分析",
+    "https://mp.weixin.qq.com/s/kBrtZrQzq_EpF8DvnivokA": "讲解一下这次PHP核弹级别漏洞的原理",
+    "https://mp.weixin.qq.com/s/T9WNT1BMJNBoGRcS6kjOUA": "【漏洞复现】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+    "https://mp.weixin.qq.com/s/PoM1Eb_Bzati3VxmJJMSJQ": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布",
+    "https://mp.weixin.qq.com/s/NgcArHRCC2XMVfnW3kEgGQ": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布",
+    "https://mp.weixin.qq.com/s/0pz73RAqoliAPYhM6MASbg": "关于PHP远程代码执行漏洞分析及修复建议的安全公告",
+    "https://mp.weixin.qq.com/s/NbxXC4ios-2GA9Fe8tLevw": "关于PHP远程代码执行漏洞分析及修复建议的安全公告"
 }
