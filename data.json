@@ -52761,5 +52761,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587080&idx=1&sn=e54d5d6dd6180bb9998281cd60ceb85b": " ] [免费！360开放图龙锋安全体检，帮企业排查PHP漏洞风险",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497449&idx=1&sn=cfee892431137c34fc5150b5666ac5ce": " ] [关于对PHP2Shell漏洞开展修复的风险提示",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485489&idx=1&sn=de3c24bb6c7c4494dd6af0f4accb541c": " ] [从防注入到防失控：大模型安全检测的体系化演进",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493689&idx=1&sn=41df1c8ea9a6c7a3153d744d876e1903": " ] [【已复现验证】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493689&idx=1&sn=41df1c8ea9a6c7a3153d744d876e1903": " ] [【已复现验证】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）",
+    "https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ": "【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示",
+    "https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw": "PHP2Shell：一个漏洞，让全球近七成网站紧张了三天",
+    "https://mp.weixin.qq.com/s/L9w-GUMF7w3b5EJF8UKO1w": "每个企业都应该有一套AI自动化渗透测试系统",
+    "https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A": "PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619)",
+    "https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg": "PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重",
+    "https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ": "u200bCNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg": "信息安全漏洞周报（2026年第42期）",
+    "https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg": "PHP 中的高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ": "高危漏洞复盘｜从公开学号到脱库，某高校平台双重安全隐患剖析",
+    "https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg": "2026年渗透测试双线基础：Windows命令与PHP文件/网络函数，从Shell到RCE的实战拆解",
+    "https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ": "Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481",
+    "https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g": "PHP2Shell 漏洞席卷全球：当未知漏洞来袭，安全防护能否不再依赖规则更新？",
+    "https://mp.weixin.qq.com/s/loUmezjvR_gwfbtFvNC5xQ": "【工业行业】解读｜GB/T41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》",
+    "https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g": "速修！Node.js曝RCE漏洞，CVSS评分9.2"
 }
