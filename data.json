@@ -52859,5 +52859,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526285&idx=2&sn=cb7cf0a10ef1a0db0c12509407c364a0": " ] [【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264)",
     "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495087&idx=1&sn=fa940fb8fc529a82379b3f07b1c83d7d": " ] [OSRC发布《AI辅助挖洞提交与测试规范》及违规白帽处罚公告",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493721&idx=1&sn=0e73454d53812475a4f22b4317551980": " ] [【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587089&idx=1&sn=420e4f66aad00df23e4045fc76d47312": " ] [多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587089&idx=1&sn=420e4f66aad00df23e4045fc76d47312": " ] [多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检",
+    "https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg": "金叶物联网大数据管理平台download接口存在任意文件读取漏洞 xa0附POC",
+    "https://mp.weixin.qq.com/s/3hYS5KfAEl5bt8yi5YVB6g": "网络安全渗透测试 Agent 推荐",
+    "https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q": "用缓冲区溢出漏洞把 3090 变成 A6000",
+    "https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+    "https://mp.weixin.qq.com/s/Jl2I2Zze46FJIskbFWbUXw": "别再搜2022年的博客了：B00t2R00t把从初始立足点到域控的每一步都画好了",
+    "https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+    "https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ": "十二年轮回：GitLab 满分 RCE 的解剖与警示"
 }
